@@ -46,9 +46,9 @@ The success and effectiveness of the project will be evaluated using the followi
 
 ## 🚩How to Approach this Project
 
-To understand the project, check out the [**Approach File**](https://github.com/Avijit-Jana/cnn-architectures-benchmark/blob/main/Approach.md).
+To understand the project, check out the [**Approach File**](https://github.com/Avijit-Jana/huggingface-nlp-image-tool/blob/main/Approach.md).
 
-Also Install the [**requirements.txt**](https://github.com/Avijit-Jana/cnn-architectures-benchmark/blob/main/requirements.txt) file to run the project.
+Also Install the [**requirements.txt**](https://github.com/Avijit-Jana/huggingface-nlp-image-tool/blob/main/requirements.txt) file to run the project.
 
 <div align="middle">
 
